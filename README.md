@@ -2,9 +2,9 @@
 
 ##  Exercício 1 :
 
-![Resolução](https://github.com/Gabriel-Aranda1406/atividade2-generation/blob/main/pngExercicios/ExercícioFila.png)
+![Resolução](https://github.com/Gabriel-Aranda1406/atividade_Estrutura_de_dados.js/blob/main/pngExercicios/ExercícioFila.png)
 
 ##  Exercício 2 :
 
-![Resolução](https://github.com/Gabriel-Aranda1406/atividade2-generation/blob/main/pngExercicios/ExercícioPilha.png)
+![Resolução](https://github.com/Gabriel-Aranda1406/atividade_Estrutura_de_dados.js/blob/main/pngExercicios/ExercícioPilha.png)
 
